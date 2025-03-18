@@ -1,0 +1,6 @@
+{
+  "name": "Solana First Token",
+  "symbol": "SFT",
+  "description": "This is my first solana token",
+  "image": "https://raw.githubusercontent.com/Hassan1823/solana-notes/refs/heads/main/new-token-img.jpg"
+}
